@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="915184f8-47ef-40fb-a1c4-bacc6b6bb1d0" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercise/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Shell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/stack/_32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/stack/_32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/src/algorithm/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/algorithm/sort/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/algorithm/sort/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/exercise/Selection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/exercise/Selection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Selection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -135,6 +131,8 @@
       <workItem from="1638619482066" duration="8496000" />
       <workItem from="1638672031317" duration="11738000" />
       <workItem from="1638871133641" duration="3799000" />
+      <workItem from="1639206697394" duration="275000" />
+      <workItem from="1639206984905" duration="88000" />
     </task>
     <servers />
   </component>

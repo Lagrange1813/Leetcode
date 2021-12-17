@@ -8,7 +8,7 @@ public class Selection {
         for (int i = 0; i < a.length; i++) {
             int min = i;
             for (int j = i; j < a.length; j++) {
-                if (less(a[j],a[i]))
+                if (less(a[j],a[min]))
                     min = j;
             }
             exch(a,i,min);
