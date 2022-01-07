@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="915184f8-47ef-40fb-a1c4-bacc6b6bb1d0" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/exercise/Selection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/exercise/Selection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Selection.java" afterDir="false" />
-    </list>
+    <list default="true" id="915184f8-47ef-40fb-a1c4-bacc6b6bb1d0" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,6 +129,7 @@
       <workItem from="1638871133641" duration="3799000" />
       <workItem from="1639206697394" duration="275000" />
       <workItem from="1639206984905" duration="88000" />
+      <workItem from="1641013587215" duration="12000" />
     </task>
     <servers />
   </component>
